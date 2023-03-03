@@ -1,2 +1,4 @@
-# openai-clone
- 
+OpenAI Flutter Clone
+
+Frontend: Flutter
+Backend: Express Node.js
